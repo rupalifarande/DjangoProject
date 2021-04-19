@@ -1,0 +1,2 @@
+# DjangoProject
+Student Registration Form
